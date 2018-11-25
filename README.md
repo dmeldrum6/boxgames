@@ -7,4 +7,4 @@ In Timed mode cleared boxes collapse and then refill
 
 In Vertical mode boxes come in from the bottom one row at a time. The longer you play the faster they fill.
 
-All "graphics" from https://iconmonstr.com/
+All graphics from https://iconmonstr.com/

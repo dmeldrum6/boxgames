@@ -1,4 +1,4 @@
-# boxgames
+# BoxGames
 Simple box clearing game in 3 different variations
 
 Click on groups of 2 or more boxes. The more matching at once, the more points you receive. 

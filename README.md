@@ -1,4 +1,4 @@
-<img src="boxgame_menu.png" />
+<img src="https://github.com/dmeldrum6/boxgames/blob/master/boxgames_menu.png" />
 # BoxGames
 Simple box clearing game in 3 different variations
 

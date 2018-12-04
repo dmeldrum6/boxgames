@@ -1,3 +1,4 @@
+<img src="boxgame_menu.png" />
 # BoxGames
 Simple box clearing game in 3 different variations
 

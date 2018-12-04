@@ -1,8 +1,8 @@
 # BoxGames
 <table>
   <tr>
-    <td><img src="https://github.com/dmeldrum6/boxgames/blob/master/boxgames_menu.png" width="100" /></td>
-    <td><img src="https://github.com/dmeldrum6/boxgames/blob/master/boxgames_clear.png" width="100" /></td>
+    <td><img src="https://github.com/dmeldrum6/boxgames/blob/master/boxgames_menu.png" width="300" /></td>
+    <td><img src="https://github.com/dmeldrum6/boxgames/blob/master/boxgames_clear.png" width="500" /></td>
   </tr>
   </table>
   

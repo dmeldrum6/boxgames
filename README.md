@@ -1,5 +1,11 @@
-<img src="https://github.com/dmeldrum6/boxgames/blob/master/boxgames_menu.png" />
 # BoxGames
+<table>
+  <tr>
+    <td><img src="https://github.com/dmeldrum6/boxgames/blob/master/boxgames_menu.png" width="100" /></td>
+    <td><img src="https://github.com/dmeldrum6/boxgames/blob/master/boxgames_clear.png" width="100" /></td>
+  </tr>
+  </table>
+  
 Simple box clearing game in 3 different variations
 
 Click on groups of 2 or more boxes. The more matching at once, the more points you receive. 
